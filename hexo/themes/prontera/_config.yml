@@ -1,0 +1,38 @@
+favicon: /favicon.ico
+
+
+# Nav Menus
+menu:
+    Index: /
+    Archives: /archives
+
+# Nav Shortcut Icons
+nav_icons:
+    - ['/images/github.svg', 'https://github.com/lanhaifeiyu']
+    - ['/images/rss.svg', '/atom.xml']
+
+# Friend Links
+friend_links:
+    - ['aimin', 'link to github', 'https://github.com/wangaimin']
+    - ['airson yu', 'link to github', 'https://github.com/airson-yu']
+
+
+# About
+about_info:
+    name: "lhfeiyu"
+    bio: "人生需要不懈努力"
+    avatar: "/images/avatar.png"
+    url: "https://github.com/lanhaifeiyu"
+
+# Comment
+# e.g disqus: seansun
+disqus: lhfeiyu
+duoshuo: 
+
+# Analytics
+google_analytics: lhfeiyu
+tencent_analytics: 
+ 
+# Copyright Infomation
+startyear: 2019
+
